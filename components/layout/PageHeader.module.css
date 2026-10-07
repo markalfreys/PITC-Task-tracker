@@ -1,0 +1,8 @@
+.header {
+  margin-bottom: 24px;
+}
+
+.description {
+  color: var(--muted);
+  margin-top: 6px;
+}

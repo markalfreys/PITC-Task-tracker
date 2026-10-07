@@ -1,0 +1,9 @@
+.backLink {
+  display: inline-block;
+  color: var(--muted);
+  margin-bottom: 16px;
+}
+
+.backLink:hover {
+  color: var(--foreground);
+}
